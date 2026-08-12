@@ -1,7 +1,7 @@
-👋 Hi, I’m Richard Yony
-🎉 From Ayacucho, Perú 🇵🇪
-🧙‍♂️ Data Engineer | 🌎 Data Wizard Community | 🎬 Cinephile
-“Data is my passion, community is my family.” ✨
+<h2>👋 Hi, I’m Richard Yony  </h2>
+<h2>🎉 From Ayacucho, Perú  </h2>
+<h2>🧙‍♂️ Data Engineer | 🌎 Data Wizard Community | 🎬 Cinephile  </h2>
+<p style="font-size:20px;">“Data is my passion, community is my family.” ✨  </p>
 
 🧠 About Me
 I’m Richard Yony Huaman Sulca, a data engineer from Ayacucho, Peru 🇵🇪; I am passionate about the world of data and continuous learning.
